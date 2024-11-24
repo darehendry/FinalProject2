@@ -12,3 +12,5 @@ plt.legend()
 plt.xlabel('x values')
 plt.ylabel('sin(x)')
 plt.show()
+
+its now broken
